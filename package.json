@@ -1,0 +1,30 @@
+{
+  "name": "merge-style-modules",
+  "version": "1.0.0",
+  "description": "A package that merge style modules",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "keywords": [
+    "style",
+    "style module",
+    "modules",
+    "merge style",
+    "merge style module"
+  ],
+  "devDependencies": {
+    "typescript": "4.1.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EduSantosBrito/merge-style-modules.git"
+  },
+  "author": "edusantosbrito",
+  "license": "ISC"
+}
