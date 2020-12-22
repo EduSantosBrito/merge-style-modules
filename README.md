@@ -89,7 +89,7 @@ Give a ⭐️ if this project helped you!
 ## 📝 License
 
 Copyright © 2020 [edusantosbrito](https://github.com/EduSantosBrito).<br />
-This project is [ISC](https://github.com/EduSantosBrito/merge-style-modules/blob/master/LICENSE) licensed.
+This project is [MIT](https://github.com/EduSantosBrito/merge-style-modules/blob/master/LICENSE) licensed.
 
 ---
 
